@@ -1,0 +1,145 @@
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000055 acc=AC00419 amount=104.63 loc=Omaha risk=71.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000089 acc=AC00438 amount=9.61 loc=San Diego risk=0.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000101 acc=AC00265 amount=383.37 loc=Fort Worth risk=30.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000112 acc=AC00318 amount=245.54 loc=New York risk=11.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000117 acc=AC00282 amount=300.08 loc=Austin risk=20.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000120 acc=AC00092 amount=115.83 loc=Fresno risk=10.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000152 acc=AC00242 amount=332.93 loc=Albuquerque risk=1.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000158 acc=AC00111 amount=803.37 loc=Memphis risk=9.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000166 acc=AC00182 amount=231.91 loc=Memphis risk=4.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000169 acc=AC00202 amount=304.35 loc=Houston risk=30.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000204 acc=AC00380 amount=51.00 loc=Seattle risk=68.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000210 acc=AC00339 amount=321.79 loc=Raleigh risk=19.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000242 acc=AC00215 amount=588.54 loc=Portland risk=5.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000243 acc=AC00202 amount=173.50 loc=Nashville risk=12.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000256 acc=AC00258 amount=237.99 loc=Kansas City risk=5.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000277 acc=AC00403 amount=167.14 loc=Denver risk=24.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000326 acc=AC00049 amount=609.14 loc=Tucson risk=9.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000351 acc=AC00040 amount=294.15 loc=Fresno risk=8.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000362 acc=AC00192 amount=788.84 loc=Phoenix risk=41.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000371 acc=AC00177 amount=218.59 loc=Denver risk=25.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000372 acc=AC00322 amount=132.84 loc=Oklahoma City risk=37.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000373 acc=AC00069 amount=157.37 loc=Dallas risk=0.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000408 acc=AC00208 amount=195.12 loc=Louisville risk=34.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000430 acc=AC00357 amount=296.00 loc=Las Vegas risk=88.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000441 acc=AC00040 amount=1237.56 loc=Austin risk=7.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000456 acc=AC00307 amount=219.63 loc=Charlotte risk=8.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000462 acc=AC00200 amount=697.32 loc=Atlanta risk=26.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000484 acc=AC00305 amount=99.11 loc=Philadelphia risk=44.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000512 acc=AC00153 amount=1116.48 loc=San Diego risk=29.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000513 acc=AC00012 amount=8.65 loc=Las Vegas risk=30.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000547 acc=AC00005 amount=420.28 loc=Washington risk=7.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000551 acc=AC00356 amount=77.43 loc=Raleigh risk=38.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000582 acc=AC00205 amount=84.59 loc=Las Vegas risk=21.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000601 acc=AC00184 amount=110.49 loc=Raleigh risk=12.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000625 acc=AC00425 amount=580.71 loc=Philadelphia risk=61.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000626 acc=AC00370 amount=821.54 loc=Atlanta risk=3.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000649 acc=AC00447 amount=50.40 loc=San Antonio risk=19.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000671 acc=AC00323 amount=820.15 loc=Kansas City risk=35.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000674 acc=AC00130 amount=197.49 loc=Fresno risk=0.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000680 acc=AC00101 amount=78.44 loc=San Jose risk=3.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000698 acc=AC00026 amount=278.27 loc=Tucson risk=31.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000699 acc=AC00277 amount=470.30 loc=Austin risk=23.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000730 acc=AC00395 amount=371.47 loc=Milwaukee risk=21.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000738 acc=AC00149 amount=1092.73 loc=Columbus risk=9.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000754 acc=AC00032 amount=1020.73 loc=Fort Worth risk=45.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000761 acc=AC00126 amount=319.27 loc=San Antonio risk=0.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000773 acc=AC00093 amount=827.14 loc=El Paso risk=5.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000776 acc=AC00092 amount=173.74 loc=Houston risk=3.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000812 acc=AC00227 amount=115.22 loc=San Francisco risk=64.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000844 acc=AC00106 amount=305.00 loc=Phoenix risk=26.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000845 acc=AC00241 amount=233.10 loc=Nashville risk=5.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000852 acc=AC00412 amount=227.50 loc=Sacramento risk=81.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000868 acc=AC00009 amount=87.38 loc=Atlanta risk=59.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000895 acc=AC00133 amount=110.08 loc=Detroit risk=19.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000904 acc=AC00045 amount=72.68 loc=Seattle risk=26.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000918 acc=AC00402 amount=330.61 loc=Nashville risk=3.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000940 acc=AC00157 amount=214.73 loc=Los Angeles risk=42.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000951 acc=AC00243 amount=388.98 loc=Fresno risk=42.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000958 acc=AC00217 amount=20.27 loc=Miami risk=23.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000964 acc=AC00247 amount=10.77 loc=Indianapolis risk=2.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000969 acc=AC00487 amount=278.28 loc=Jacksonville risk=21.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000985 acc=AC00247 amount=111.26 loc=Boston risk=12.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX000988 acc=AC00159 amount=187.88 loc=Nashville risk=19.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001017 acc=AC00174 amount=213.55 loc=Boston risk=3.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001026 acc=AC00214 amount=101.34 loc=Boston risk=23.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001029 acc=AC00002 amount=516.47 loc=Charlotte risk=36.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001048 acc=AC00100 amount=71.29 loc=Chicago risk=14.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001066 acc=AC00041 amount=212.88 loc=Fresno risk=18.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001071 acc=AC00249 amount=48.29 loc=San Diego risk=4.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001116 acc=AC00245 amount=42.58 loc=San Jose risk=22.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001120 acc=AC00423 amount=61.77 loc=Charlotte risk=42.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001125 acc=AC00365 amount=47.60 loc=Austin risk=47.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001129 acc=AC00279 amount=144.93 loc=Fresno risk=14.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001169 acc=AC00120 amount=202.55 loc=Dallas risk=8.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001180 acc=AC00456 amount=78.50 loc=San Jose risk=9.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001181 acc=AC00016 amount=50.00 loc=Jacksonville risk=26.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001188 acc=AC00483 amount=615.58 loc=Jacksonville risk=2.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001200 acc=AC00303 amount=161.31 loc=Nashville risk=31.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001212 acc=AC00477 amount=95.83 loc=Washington risk=52.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001218 acc=AC00381 amount=23.38 loc=Memphis risk=41.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001288 acc=AC00261 amount=451.68 loc=Houston risk=11.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001299 acc=AC00060 amount=641.06 loc=Colorado Springs risk=17.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001307 acc=AC00091 amount=100.01 loc=Philadelphia risk=3.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001311 acc=AC00032 amount=52.23 loc=San Francisco risk=53.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001321 acc=AC00298 amount=10.52 loc=Kansas City risk=37.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001340 acc=AC00175 amount=557.41 loc=Washington risk=28.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001352 acc=AC00335 amount=315.94 loc=Raleigh risk=24.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001391 acc=AC00120 amount=301.56 loc=Seattle risk=47.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001417 acc=AC00056 amount=18.56 loc=Memphis risk=16.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001425 acc=AC00179 amount=360.02 loc=Dallas risk=17.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001437 acc=AC00275 amount=147.31 loc=Mesa risk=8.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001473 acc=AC00373 amount=52.94 loc=Tucson risk=21.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001514 acc=AC00416 amount=214.15 loc=Detroit risk=22.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001535 acc=AC00407 amount=872.72 loc=Washington risk=29.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001543 acc=AC00291 amount=146.51 loc=Albuquerque risk=9.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001554 acc=AC00286 amount=47.23 loc=Memphis risk=7.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001563 acc=AC00112 amount=554.15 loc=Raleigh risk=19.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001581 acc=AC00428 amount=469.46 loc=New York risk=29.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001589 acc=AC00132 amount=23.24 loc=Indianapolis risk=16.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001591 acc=AC00172 amount=1143.67 loc=Atlanta risk=34.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001635 acc=AC00358 amount=1762.28 loc=Memphis risk=75.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001662 acc=AC00090 amount=532.40 loc=Jacksonville risk=37.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001677 acc=AC00399 amount=556.04 loc=Denver risk=49.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001684 acc=AC00446 amount=192.02 loc=Indianapolis risk=13.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001685 acc=AC00219 amount=291.27 loc=Detroit risk=29.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001694 acc=AC00424 amount=127.57 loc=Nashville risk=21.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001711 acc=AC00283 amount=77.90 loc=Washington risk=29.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001725 acc=AC00261 amount=16.27 loc=Atlanta risk=8.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001760 acc=AC00010 amount=1086.60 loc=San Diego risk=51.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001764 acc=AC00464 amount=14.00 loc=San Antonio risk=8.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001766 acc=AC00486 amount=282.26 loc=Memphis risk=17.1% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001779 acc=AC00327 amount=720.89 loc=Indianapolis risk=50.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001784 acc=AC00380 amount=292.03 loc=Memphis risk=18.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001785 acc=AC00030 amount=251.40 loc=Tucson risk=54.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001819 acc=AC00094 amount=13.92 loc=Los Angeles risk=12.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001864 acc=AC00017 amount=103.48 loc=Baltimore risk=19.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001871 acc=AC00439 amount=369.44 loc=Detroit risk=1.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX001973 acc=AC00480 amount=1087.90 loc=Boston risk=25.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002048 acc=AC00009 amount=425.18 loc=Fresno risk=11.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002060 acc=AC00267 amount=796.30 loc=Austin risk=18.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002063 acc=AC00048 amount=304.20 loc=Indianapolis risk=55.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002095 acc=AC00261 amount=26.10 loc=Mesa risk=52.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002096 acc=AC00082 amount=436.77 loc=Jacksonville risk=29.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002101 acc=AC00394 amount=139.52 loc=Portland risk=58.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002134 acc=AC00080 amount=691.92 loc=Boston risk=17.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002156 acc=AC00013 amount=172.92 loc=Miami risk=35.9% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002166 acc=AC00344 amount=716.62 loc=Atlanta risk=11.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002170 acc=AC00020 amount=592.24 loc=Tucson risk=16.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002203 acc=AC00133 amount=240.03 loc=Atlanta risk=24.3% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002210 acc=AC00404 amount=127.78 loc=Miami risk=26.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002216 acc=AC00290 amount=1413.24 loc=New York risk=11.4% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002285 acc=AC00167 amount=103.81 loc=Oklahoma City risk=17.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002291 acc=AC00050 amount=334.07 loc=New York risk=100.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002300 acc=AC00446 amount=29.72 loc=San Antonio risk=31.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002303 acc=AC00126 amount=106.43 loc=Phoenix risk=24.7% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002309 acc=AC00255 amount=588.36 loc=Charlotte risk=21.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002331 acc=AC00415 amount=69.38 loc=Detroit risk=15.8% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002336 acc=AC00048 amount=14.10 loc=Louisville risk=27.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002354 acc=AC00392 amount=34.93 loc=Columbus risk=11.0% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002362 acc=AC00153 amount=427.83 loc=Phoenix risk=29.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002368 acc=AC00032 amount=239.85 loc=Tucson risk=45.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002375 acc=AC00500 amount=129.62 loc=San Jose risk=19.2% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002474 acc=AC00122 amount=11.02 loc=Austin risk=2.5% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002479 acc=AC00276 amount=336.84 loc=Washington risk=51.6% model=Isolation Forest user=admin
+2026-04-29 21:52:46 | INFO | FLAGGED tx=TX002481 acc=AC00070 amount=99.98 loc=Washington risk=11.8% model=Isolation Forest user=admin

@@ -1,5 +1,4 @@
 # This file brings all the system components together in one file 
-
 import subprocess
 import sys
 import os
@@ -10,10 +9,7 @@ PIPELINE = [
     ("Preprocessing the data",              "preprocessing/preprocess_data.py"),
     ("Feature engineering",             "feature_engineering/feature_engineering.py"),
     ("Training the Isolation Forest model",       "models/training/isolation_forest.py"),
-    ("Training the Autoencoder model",            "models/training/autoencoder.py"),
-    ("Evaluating models",               "evaluation/evaluate_models.py"),
-]
-
+    ("Training the Autoencoder model",            "models/training/autoencoder.py"),]
 
 def run_step(description, script_path):
     """Runs each stage and stop if it fails."""
@@ -30,7 +26,6 @@ def run_step(description, script_path):
         print(f"\nERROR: {description} failed.")
         sys.exit(1)
 
-
 def main():
     print("FULL PIPELINE OF THE ANOMALY DETECTION SYSTEM")
 
@@ -38,10 +33,7 @@ def main():
         run_step(description, script)
 
     print("PIPELINE COMPLETED SUCCESSFULLY")
-    print("\n Now run:")
-    print("    streamlit run dashboard/dashboard.py")
     print()
-
 
 if __name__ == "__main__":
     main()

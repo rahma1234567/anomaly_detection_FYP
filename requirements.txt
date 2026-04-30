@@ -5,8 +5,8 @@ torch
 matplotlib
 seaborn
 streamlit
-streamli-authenticator
-bycrypt
+streamlit-authenticator
+bcrypt
 PyYAML
 joblib
 pytest

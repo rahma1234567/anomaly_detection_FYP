@@ -1,55 +1,37 @@
 import logging
 import os
 from datetime import datetime
+from pathlib import Path
 
-#This section creates a  date-based filenames for users
-today = datetime.now().strftime("%Y-%m-%d")
-SYSTEM_LOG = f"logs/system_{today}.log"
-ANOMALY_LOG = f"logs/anomalies_{today}.log"
+LOG_DIR = Path("logs")
+LOG_DIR.mkdir(exist_ok=True)
 
+_FORMAT = "%(asctime)s | %(levelname)s | %(message)s"
+_DATEFMT = "%Y-%m-%d %H:%M:%S"
 
-def _setup_logger(name, log_file, level=logging.INFO):
-    """Create or retrieve a logger that writes to a specific file."""
+def _make_logger(name: str, prefix: str) -> logging.Logger:
     logger = logging.getLogger(name)
-    logger.setLevel(level)
-
     if logger.handlers:
         return logger
+    logger.setLevel(logging.INFO)
+    logger.propagate = False 
 
-    formatter = logging.Formatter(
-        "%(asctime)s | %(levelname)s | %(message)s",
-        datefmt="%Y-%m-%d %H:%M:%S"
-    )
-    file_handler = logging.FileHandler(log_file, encoding="utf-8")
-    file_handler.setFormatter(formatter)
-    logger.addHandler(file_handler)
+    today = datetime.now().strftime("%Y-%m-%d")
+    handler = logging.FileHandler(LOG_DIR / f"{prefix}_{today}.log", encoding="utf-8")
+    handler.setFormatter(logging.Formatter(_FORMAT, datefmt=_DATEFMT))
+    logger.addHandler(handler)
     return logger
 
+_system    = _make_logger("system",    "system")
+_anomalies = _make_logger("anomalies", "anomalies")
 
-#There will be two separate loggers, one for the system logs and one for the anomlay logs. 
-system_logger = _setup_logger("system", SYSTEM_LOG)
-anomaly_logger = _setup_logger("anomaly", ANOMALY_LOG)
+def log_info(msg: str)    -> None: _system.info(msg)
+def log_warning(msg: str) -> None: _system.warning(msg)
+def log_error(msg: str)   -> None: _system.error(msg)
 
-
-# Convenience functions
-def log_info(message):
-    """General system events (file upload, model switch, etc.)"""
-    system_logger.info(message)
-
-
-def log_warning(message):
-    system_logger.warning(message)
-
-
-def log_error(message):
-    system_logger.error(message)
-
-
-def log_anomaly(transaction_id, customer_id, risk_pct, model, location=None, amount=None):
-    """Specifically for flagged transactions."""
-    msg = f"ALERT | TxID={transaction_id} | Customer={customer_id} | Model={model} | Risk={risk_pct}%"
-    if location:
-        msg += f" | Location={location}"
-    if amount is not None:
-        msg += f" | Amount=£{amount:.2f}"
-    anomaly_logger.warning(msg)
+def log_anomaly(transaction_id: str, account_id: str, amount: float,
+                location: str, risk_pct: float, model: str, triggered_by: str) -> None:
+    """One structured line per flagged transaction."""
+    _anomalies.info(
+        f"FLAGGED tx={transaction_id} acc={account_id} amount={amount:.2f} "
+        f"loc={location} risk={risk_pct:.1f}% model={model} user={triggered_by}")

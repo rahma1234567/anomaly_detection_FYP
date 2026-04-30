@@ -1,0 +1,16 @@
+pattern,severity,n,if_recall,ae_recall
+high_value,mild,10,0.3,0.1
+high_value,moderate,10,0.5,0.2
+high_value,severe,10,0.7,0.2
+account_drain,mild,10,0.6,0.2
+account_drain,moderate,10,0.2,0.1
+account_drain,severe,10,0.6,0.2
+credential_stuffing,mild,10,0.2,0.1
+credential_stuffing,moderate,10,1.0,0.3
+credential_stuffing,severe,10,1.0,0.4
+rapid_micro,mild,10,0.1,0.1
+rapid_micro,moderate,10,0.3,0.4
+rapid_micro,severe,10,0.6,0.5
+combined,mild,10,0.4,0.2
+combined,moderate,10,1.0,0.3
+combined,severe,10,1.0,0.8
