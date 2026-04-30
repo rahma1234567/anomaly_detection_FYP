@@ -7,7 +7,7 @@ banking transactions using unsupervised learning techniques.
 
 ## Overview 
 
-This system uses two unsupervised machine learning models algorithms: **Isolation Forest Isolation Forest and **Autoencoder**
+This system uses two unsupervised machine learning models algorithms: **Isolation Forest** and **Autoencoder**
 to detect anomalous bank transactions that may indicate  fraud. The system features
 Streamlit dashboard with role-based access control, comprehensive logging, and a built-in
 retraining pipeline.  
@@ -35,17 +35,23 @@ retraining pipeline.
 
 2. Open Visual Studio Code and open the cloned file
 
-3. Create a virtual environment & activate (optional, to keep everything in place)
-    "python -m venv .venv"
-    ".venv\Scripts\activate
+3. Create a virtual environment & activate:
 
-4. Install the dependencies and libraries from the requirements.txt file by running:
-"pip install -r requirements.txt"
+   
+    `"python -m venv .venv"`
 
-5. Run the main.py file in your terminal first
+    `".venv\Scripts\activate"`
 
-6. Then run:
-    "streamlit run dashboard/dashboard.py"
+6. Install the dependencies and libraries from the requirements.txt file by running:
+
+   
+     "pip install -r requirements.txt"
+
+8. Run the `main.py` file in your terminal first
+
+9. Then run:
+   
+    `"streamlit run dashboard.py"`
 
 The dashboard will open in your browser
 ### Login details
