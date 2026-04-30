@@ -48,12 +48,19 @@ retraining pipeline.
     "streamlit run dashboard/dashboard.py"
 
 The dashboard will open in your browser
+### Login details
 
-7. if you want to log in as a **user**:
+#### If you want to log in as a **user**:
+
+
 username: User
+
 Password: rahma@user28
-if you want to log in as an **admin**:
+
+#### If you want to log in as an **admin**:
+
 username: Admin
+
 Password: rahma@admin28
 
 # Dataset
