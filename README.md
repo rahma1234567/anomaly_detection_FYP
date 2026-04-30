@@ -15,10 +15,10 @@ retraining pipeline.
 ---
 
 ### Key features
-- ** Two ML models** running in parallel for robust anomaly detection
-- ** Interactive Streamlit dashboard** that immediately detects anomalies on a dataset
+- **Two ML models** running in parallel for robust anomaly detection
+- **Interactive Streamlit dashboard** that immediately detects anomalies on a dataset
 - **Role-based Authentication** (Admin/User) with bycrypt-hashed passwords
-- ** Live data upload** for inference on new transaction bathes
+- **Live data upload** for inference on new transaction bathes
 - **Investigation logs** for audit and compliance review
 
 ---
